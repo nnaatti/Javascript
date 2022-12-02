@@ -1,0 +1,20 @@
+-> Conditional sentence -> 'IF' specifies a block of code to be executed, if a specified condition is true
+				Example-> if ('condition') {
+					// code to be executed if the condition is true
+					}	
+			-> 'ELSE' specifies a block of code to be executed, if the same condition is false
+				Example-> if ('condition') {
+						// code to be executed if the condition is true
+
+					} else {
+						// code tobe executed if the condition is false
+					}
+			-> 'ELSE IF' specifies a new condition to test, if the first condition is false
+				Example-> if (condition1) {
+  						//  block of code to be executed if condition1 is true
+					} else if (condition2) {
+ 						 //  block of code to be executed if the condition1 is false and condition2 is true
+					} else {
+ 						 //  block of code to be executed if the condition1 is false and condition2 is false
+					}
+			-> 'SWITCH' specifies many alternative blocks of code to be executed
