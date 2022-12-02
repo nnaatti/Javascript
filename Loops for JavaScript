@@ -1,0 +1,22 @@
+-> Loops -> 'FOR' loops through a block of code a number of times
+		Example-> for (expression 1; expression 2; expression 3) {
+  				// code block to be executed
+			}
+	-> 'FOR/IN' loops through the properties of an object
+		Example-> for (key in object) {
+ 				 // code block to be executed
+			}
+	-> 'FOE/OF' statement loops through the values of an iterable object
+		Example-> for (variable of iterable) {
+  				// code block to be executed
+			}
+	-> 'WHILE' loop loops through a block of code as long as a specified condition is true
+		Example-> while (condition) {
+  				// code block to be executed
+			}
+	-> 'DO WHILE' loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true
+
+		Example-> do {
+  				// code block to be executed
+			}
+			while (condition);
